@@ -1,0 +1,27 @@
+{
+  "name": "meanapp",
+  "version": "1.0.0",
+  "description": "Mean Stack with angualar 2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subashbasnet8/MeanApp.git"
+  },
+  "keywords": [
+    "Mean",
+    "stack"
+  ],
+  "author": "subash basnet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/subashbasnet8/MeanApp/issues"
+  },
+  "homepage": "https://github.com/subashbasnet8/MeanApp#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "mongoose": "^4.10.7"
+  }
+}
